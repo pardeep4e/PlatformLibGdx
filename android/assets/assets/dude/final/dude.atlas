@@ -1,0 +1,54 @@
+
+dude.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stop
+  rotate: false
+  xy: 1, 1
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: 0
+walk
+  rotate: false
+  xy: 42, 1
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: 1
+walkl
+  rotate: false
+  xy: 83, 1
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: 0
+walkl
+  rotate: false
+  xy: 124, 4
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: 2
+walkl
+  rotate: false
+  xy: 165, 4
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: 1
+walk
+  rotate: false
+  xy: 206, 4
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: 3
+walk
+  rotate: false
+  xy: 247, 4
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: 2
