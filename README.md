@@ -1,1 +1,1 @@
-# PlatformLibGdx
+# Platform LibGdx Demo Game
